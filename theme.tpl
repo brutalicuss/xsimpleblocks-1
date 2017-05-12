@@ -70,7 +70,7 @@ jQuery(document).ready(function() {
 <{/if}>
 </div>
 </div>
-<{if $homepage}>
+<{if $homepage and $xoops_dirname == "system"}>
 <div class="headerback grid topslider hide-on-mobile dnone">
 <{includeq file="$theme_name/tpl/xtopslider.tpl"}>
 </div>
