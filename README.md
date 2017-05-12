@@ -12,6 +12,8 @@ and font awesome icons / http://fontawesome.io/
 
 
 DEMO URL:			http://eunion.info/xoops/xsimpleblocks
+
+
 GITHUB              https://github.com/XoopsThemes/xsimpleblocks
 
 
