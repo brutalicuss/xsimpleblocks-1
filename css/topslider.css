@@ -1,0 +1,18 @@
+/* CSS Document */
+/**TopSlider**/
+.anim-slider-top{background: url("../images/topslider/1.jpg") 100%/cover;}
+.anim-slide-top{opacity:0;}
+.anim-slide-top-this{opacity:1;}
+li.anim-slide-top:nth-of-type(1)>div{width: 100%;height: 100%;}
+div#img2{background: url("../images/topslider/2.jpg") 100%/cover;}
+div#img0{background: url("../images/topslider/0.jpg") 100%/cover;}
+div#img3{background: url("../images/topslider/3.jpg") 100%/cover;}
+li.anim-slide-top:nth-of-type(2)>div{width: 100%;height: 100%;}
+div#img4{background: url("../images/topslider/4.jpg") 100%/cover;}
+div#img0{background: url("../images/topslider/00.jpg") 100%/cover;}
+div#img5{background: url("../images/topslider/5.jpg") 100%/cover;}
+li.anim-slide-top:nth-of-type(3)>div{width: 100%;height: 100%;}
+div#img6{background: url("../images/topslider/6.jpg") 100%/cover;}
+div#img0{background: url("../images/topslider/000.jpg") 100%/cover;}
+div#img7{background: url("../images/topslider/7.jpg") 100%/cover;}
+

@@ -1,0 +1,57 @@
+Theme name: xSimpleblocks
+=========================
+
+This is responsive theme for XOOPS CMS / www.xoops.org for 2.5.8 version or latter
+==================================================================================
+
+This theme is under MIT license and free for personal and commercial usage
+==========================================================================
+
+This theme is based on simplegrid css / http://thisisdallas.github.io/Simple-Grid/
+and font awesome icons / http://fontawesome.io/
+=================================================================================
+
+DEMO URL:			http://eunion.info/xoops/xsimpleblocks
+GITHUB              https://github.com/xoopsthemes/xsimpleblocks
+================================================================
+
+Author:
+Brutalicuss         support@eunion.info
+
+
+
+
+
+!!HOW TO USE!!
+==============
+
+1. Fastmenu (xfastmenu.tpl) is smart menu with font awesome icons at the top of template.
+There are automated links/icons for most of the xoops modules. If you want just add yours.
+There are automated links/icons for user, admin or guest. Use http://fontawesome.io/
+to see and choose your icon.
+2. Backslider (tpl/xbackslider.tpl). The are two set for Backslider, one for the top-page (home page)
+and other for xoops contents (all other pages). You can set yours from the xbackslider.tpl
+and set your images into the folder "images/background".
+3. Topslider (tpl/xtopslider.tpl) is apear only to the homepage. You can change effects from the file
+and set your images into the folder "images/topslider"
+4. Middleslider is apear to the all xoops contents, even to the system files.
+You can change effects from the file (tpl/xoopsContents.tpl) and set your images
+into the folder "images/sliders".
+5. Middle parallax. This is parallax image between bottom and top blocks.
+You can set it from the file (tpl/xoopsContents.tpl) and set your custom image
+into the folder "images/background".
+6. Bottom right social menu with font awesome icons and bottom left search field.
+You can set your social links from the file (theme.tpl) in main folder.
+7. Main top system and custom banner and logo.
+You can set you logo from the file (theme.tpl) in main folder and image folder "images"
+If you have not system banner (from admin panel menu), than template will display
+custom banner with the same size. You can set your image from image folder "images".
+
+===============
+!!!IMPORTANT!!!
+===============
+There is 25 different bottom blocks configurations, 12 for top blocks and 5 for footer blocks.
+But actually Bottom Blocks are TOP and Top Blocks are BOTTOM. Than just set in xoops admin panel
+- blocks menu - you TOP blocks configuration at the bottom fields and your BOTTOM blocks
+configuration at the TOP fields.
+You can see screenshots with all possible block configurations in folder "docs".

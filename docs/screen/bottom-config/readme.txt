@@ -1,0 +1,1 @@
+!!bottom blocks actually are top blocks, but apears in bottom part of the page.
