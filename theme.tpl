@@ -54,7 +54,7 @@ jQuery(document).ready(function() {
 </div>
 </div>
 <{/if}>
-<div class="hide-on-mobile dnone2">
+<div class="dnone2">
 <{includeq file="$theme_name/tpl/xbackslider.tpl"}>
 </div>
 <div class="xheader">
@@ -71,7 +71,7 @@ jQuery(document).ready(function() {
 </div>
 </div>
 <{if $homepage and $xoops_dirname == "system"}>
-<div class="headerback grid topslider hide-on-mobile dnone">
+<div class="headerback grid topslider dnone">
 <{includeq file="$theme_name/tpl/xtopslider.tpl"}>
 </div>
 <{/if}>
